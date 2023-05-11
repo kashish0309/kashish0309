@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kashish0309
 - 👀 I’m really passionate in coding(Java & C++)
-- 🌱 I’m mastering Data Structures and Algorithms
-      and also currently learning about Web Development.
+- 🌱 I’m mastering Data Structures and Algorithms in C++
+      and also currently learning about ReactJS.
+      Knowledge about programming languages- C++, Java, Python, HTML, CSS, JS.
 - 📫 Reach me through my mail ID:kashishwadhwani0309@gmail.com
 
 <!---
